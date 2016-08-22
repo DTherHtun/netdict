@@ -1,4 +1,4 @@
-##English ~ Myanmar Dictionary For Fedora User
+#English ~ Myanmar Dictionary For Fedora User
 ======================================
 #About NET DciT Dictionary
 
@@ -7,7 +7,7 @@ NET DicT is a English to Myanmar dictionary that can be set up in minutes and en
 
 #System Requirements
 	
-	NET Dict only work at Ruby 1.9.3 because most of gems are stable and support at ruby version 1.9.3. It also need green_shoes gem.
+NET Dict only work at Ruby 1.9.3 because most of gems are stable and support at ruby version 1.9.3. It also need green_shoes gem.
 
 #Installation guide
 
