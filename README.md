@@ -1,0 +1,2 @@
+# netdict
+Fedora Myanmar Dictionary
