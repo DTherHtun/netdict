@@ -20,23 +20,23 @@ it work at ruby 1.9.*
 
 #2) install ruby 1.9.3
 
- rvm list known
- rvm install 1.9.3
- rvm use 1.9.3
- ruby -v
+	rvm list known
+	rvm install 1.9.3
+	rvm use 1.9.3
+	ruby -v
 ruby 1.9.3p547 (2014-05-14 revision 45962) [x86_64-linux]
 
 #3) install ruby gem ( Green Shoes) for gui (GTk2)
 
- gem update
- gem install green_shoes
+	gem update
+	gem install green_shoes
 
 #4) install netdict
 
- git clone https://github.com/DTherHtun/netdict.git
+	git clone https://github.com/DTherHtun/netdict.git
+	tar -xvf netdict.tar
+	cd netdict/
+ 	./install
 
- tar -xvf netdict.tar
- cd netdict/
- ./install
 
  netdict or ALT+F2 ==> netdict
